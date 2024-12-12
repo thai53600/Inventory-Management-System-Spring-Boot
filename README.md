@@ -1,4 +1,5 @@
 This version is written in Vietnamese, if you don't understand, use Google Translate
+The code section is located in request "master"
 # Inventory-Management-System-Spring-Boot (Quản lí kho hàng Spring Boot)
 
 Các tổ chức, công ti cần sử dụng hệ thống quản lý để phân bố hóa nhiệm vụ của họ. Chúng có thể đơn giản hoặc phức tạp tùy thuộc vào nhu cầu của tổ chức. Hệ thống quản lý hàng tồn kho (hoặc hệ thống hàng tồn kho) là quy trình mà bạn theo dõi hàng hóa của mình trong toàn bộ chuỗi cung ứng, từ mua hàng đến sản xuất đến bán hàng cuối cùng. Nó chi phối cách bạn tiếp cận quản lý hàng tồn kho cho doanh nghiệp của mình.
